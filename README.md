@@ -23,7 +23,7 @@ Git 分支命名规范：
 -- 陈嘉豪:
 -- 李慧茹:
 -- 王雨霏:
-- 我看王牛牛牛在群里发了个https://openspec.dev/和
-- https://openspec.pro/，   好像是知道ai工具的一个东西,其实就是给ai写plan
+- 我看王牛牛牛在群里发了个https://openspec.dev
+- https://openspec.pro/  好像是知道ai工具的一个东西,其实就是给ai写plan
 - 还有就是我看这个青软的bro写的这东西Claude一个小时就写出来,写成这样估计等着挂吧,这我估计都能手搓出来
 - FOR"智能化自动化"--->我们可以看一下github开源的一些好东西,vibecoding的时候也可以加一点新的skills,我前几天还看了几个新skills很有意思! 
